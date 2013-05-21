@@ -19,7 +19,7 @@
    
     </div>
     <asp:CheckBox ID="check_cookie" runat="server" Text=" " />
-    <asp:Label ID="Label1" runat="server" Text="remembre me"></asp:Label>
+    <asp:Label ID="Label1" runat="server" Text="Se rappler de moi"></asp:Label>
     </form>
 </body>
 </html>
